@@ -1,7 +1,7 @@
 # cuttlefish.js
 🦑 A simple script for inverted text on a changing background.
 
-Usage
+<h2>Usage</h2>
 <hr>
 To use cuttlefish in your website, simply drop the <script> just inside your document's body tag, and change the background-color in the background.js file. The time blocks can be edited in the background.js file as well. 
 
